@@ -1,0 +1,36 @@
+2024-07-16 11:22:28.576 [main] INFO  com.one.ta.pages.LoginPage - Application Launched : https://www.saucedemo.com/
+2024-07-16 11:22:29.226 [main] INFO  com.one.ta.pages.LoginPage - UserName Added : standard_user
+2024-07-16 11:22:29.352 [main] INFO  com.one.ta.pages.LoginPage - Password Entered
+2024-07-16 11:22:29.717 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : login-button Button
+2024-07-16 11:22:29.769 [main] INFO  com.one.ta.pages.LoginPage - User Logged In Successfully
+2024-07-16 11:22:29.954 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Backpack added to the Cart
+2024-07-16 11:22:30.096 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Bike Light added to the Cart
+2024-07-16 11:22:30.217 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Bolt T-Shirt added to the Cart
+2024-07-16 11:22:30.983 [main] INFO  com.one.ta.pages.LoginPage - Cart Badge is Updated successfully
+2024-07-16 11:22:31.074 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : shopping_cart_container Button
+2024-07-16 11:22:31.625 [main] INFO  com.one.ta.pages.LoginPage - Validated the Product Name, Description and Product Price Successfully on Page : Cart
+2024-07-16 11:22:31.673 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : checkout Button
+2024-07-16 11:22:32.334 [main] INFO  com.one.ta.pages.LoginPage - User Entered the personal Information Successfully
+2024-07-16 11:22:32.424 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : continue Button
+2024-07-16 11:22:32.816 [main] INFO  com.one.ta.pages.LoginPage - Validated the Product Name, Description and Product Price Successfully on Page : Overview
+2024-07-16 11:22:33.016 [main] INFO  com.one.ta.pages.LoginPage - Item total and Final Total Values validated successfully
+2024-07-16 11:22:33.072 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : finish Button
+2024-07-16 11:22:33.298 [main] INFO  com.one.ta.pages.LoginPage - Order Placed Success Message validated successfully
+2024-07-16 11:23:47.862 [main] INFO  com.one.ta.pages.LoginPage - Application Launched : https://www.saucedemo.com/
+2024-07-16 11:23:48.117 [main] INFO  com.one.ta.pages.LoginPage - UserName Added : standard_user
+2024-07-16 11:23:48.297 [main] INFO  com.one.ta.pages.LoginPage - Password Entered
+2024-07-16 11:23:48.411 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : login-button Button
+2024-07-16 11:23:48.456 [main] INFO  com.one.ta.pages.LoginPage - User Logged In Successfully
+2024-07-16 11:23:48.621 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Backpack added to the Cart
+2024-07-16 11:23:48.763 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Bike Light added to the Cart
+2024-07-16 11:23:48.874 [main] INFO  com.one.ta.pages.LoginPage - Product : Sauce Labs Bolt T-Shirt added to the Cart
+2024-07-16 11:23:49.118 [main] INFO  com.one.ta.pages.LoginPage - Cart Badge is Updated successfully
+2024-07-16 11:23:49.169 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : shopping_cart_container Button
+2024-07-16 11:23:49.478 [main] INFO  com.one.ta.pages.LoginPage - Validated the Product Name, Description and Product Price Successfully on Page : Cart
+2024-07-16 11:23:49.525 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : checkout Button
+2024-07-16 11:23:50.033 [main] INFO  com.one.ta.pages.LoginPage - User Entered the personal Information Successfully
+2024-07-16 11:23:50.102 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : continue Button
+2024-07-16 11:23:50.421 [main] INFO  com.one.ta.pages.LoginPage - Validated the Product Name, Description and Product Price Successfully on Page : Overview
+2024-07-16 11:23:50.587 [main] INFO  com.one.ta.pages.LoginPage - Item total and Final Total Values validated successfully
+2024-07-16 11:23:50.631 [main] INFO  com.one.ta.pages.LoginPage - Clicked On : finish Button
+2024-07-16 11:23:50.828 [main] INFO  com.one.ta.pages.LoginPage - Order Placed Success Message validated successfully

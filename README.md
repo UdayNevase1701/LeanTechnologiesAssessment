@@ -3,7 +3,7 @@ Lean Technologies Assessment
 
 Steps :
 
-Required Plugins for IDE : Cucumber
+Required Plugins for IDE : Cucumber For Java, Gherkin
 Required Software : Java 16
 Build Tool : Maven 
 
